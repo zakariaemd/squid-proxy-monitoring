@@ -1,0 +1,10 @@
+1704067200.123    142 192.168.1.10 TCP_MISS/200 4521 GET http://www.google.com/ user1 DIRECT/142.250.75.100 text/html
+1704067215.456    89  192.168.1.11 TCP_HIT/200  1823 GET http://www.amazon.fr/   user2 DIRECT/176.32.98.166  text/html
+1704067230.789    234 192.168.1.12 TCP_MISS/200 8934 GET http://www.github.com/  user3 DIRECT/140.82.121.3   text/html
+1704067245.012    45  192.168.1.10 TCP_HIT/200  923  GET http://www.google.com/  user1 DIRECT/142.250.75.100 text/html
+1704067260.345    567 192.168.1.13 TCP_DENIED/403 0  GET http://www.facebook.com/ user4 DIRECT/157.240.221.35 text/html
+1704067275.678    123 192.168.1.14 TCP_MISS/200 3421 GET http://www.youtube.com/ user5 DIRECT/142.250.75.200 text/html
+1704067290.901    89  192.168.1.15 TCP_HIT/200  2134 GET http://www.linkedin.com/ user6 DIRECT/108.174.10.10 text/html
+1704067305.234    456 192.168.1.16 TCP_MISS/200 7823 GET http://www.stackoverflow.com/ user7 DIRECT/151.101.1.69 text/html
+1704067320.567    78  192.168.1.17 TCP_DENIED/403 0  GET http://www.instagram.com/ user8 DIRECT/157.240.221.36 text/html
+1704067335.890    345 192.168.1.18 TCP_MISS/200 5621 GET http://www.wikipedia.org/ user9 DIRECT/91.198.174.192 text/html
